@@ -1,0 +1,9 @@
+.app-home-style {
+    border: 5px solid #068FFF;
+    height: 400px;
+}
+
+.app-home-style h1 {
+    color: #068FFF;
+    padding-left: 40px;
+}

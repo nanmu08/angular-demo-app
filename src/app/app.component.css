@@ -1,0 +1,13 @@
+.app-root-style {
+    border: 5px solid green;
+    margin: 2% 20%;
+}
+
+.app-root-style div {
+    margin: 20px;
+}
+
+.app-root-style h1 {
+    color: green;
+    padding-left: 40px;
+}

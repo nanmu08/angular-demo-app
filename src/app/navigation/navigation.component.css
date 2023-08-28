@@ -1,0 +1,8 @@
+.app-navi-style {
+    border: 5px solid red;
+}
+
+.app-navi-style h1 {
+    color: red;
+    padding-left: 40px;
+}
